@@ -1,0 +1,8 @@
+
+
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(€έ­γύÿÿÿÿ8ηγΨΒ.
+{
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(†ά‡—ώÿÿÿÿ8ηγΨΒ.
+N
+java:S3599",Use another way to initialize this instance.(†ά‡—ώÿÿÿÿ8ηγΨΒ.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ω—Γªωÿÿÿÿ
